@@ -1,4 +1,4 @@
- Web Scraping & File Automation
+**Web Scraping & File Automation**
 
 ## Overview
 
