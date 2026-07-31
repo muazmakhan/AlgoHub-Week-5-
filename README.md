@@ -43,13 +43,13 @@ A Python automation script that organizes files into categorized folders based o
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/muazmakhan/your-repository.git
+git clone https://github.com/muazmakhan/Web-Scraping-and-File-Automation.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd your-repository
+cd Web-Scraping-and-File-Automation
 ```
 
 3. Install the required packages:
